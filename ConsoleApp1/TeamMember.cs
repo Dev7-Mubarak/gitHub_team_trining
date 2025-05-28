@@ -9,5 +9,6 @@ namespace ConsoleApp1
     enum TeamMember
     {
         MubarakKhaledBamazhem,
+        MubarakKhaledBamazhemDemoAccount,
     }
 }
