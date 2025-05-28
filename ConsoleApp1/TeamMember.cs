@@ -10,5 +10,6 @@ namespace ConsoleApp1
     {
         MubarakKhaledBamazhem,
         MubarakKhaledBamazhemDemoAccount,
+        AmmarBawazir,
     }
 }
