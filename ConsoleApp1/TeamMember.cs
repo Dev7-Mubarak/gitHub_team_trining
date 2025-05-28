@@ -12,5 +12,6 @@ namespace ConsoleApp1
         MubarakKhaledBamazhemDemoAccount,
         AmmarBawazir,
         ReemMohsen,
+        SafaKhalid,
     }
 }
